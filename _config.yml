@@ -1,5 +1,5 @@
 # Site settings
-title: WHICH ATAO Blog
+title: TAO’s Blog
 SEOTitle: 哪个涛的博客 | WHICHATAO Blog
 header-img: img/post-bg-desk.jpg
 email: linteantor@gmail.com
@@ -11,7 +11,7 @@ github_repo: "https://github.com/whichatao/whichatao.github.io.git" # you code r
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "理解的技术的原理!"
+sidebar-about-description: "the miracle is this--the more we share, the more we have."
 sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
