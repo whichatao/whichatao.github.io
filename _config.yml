@@ -1,10 +1,10 @@
 # Site settings
-title: BY Blog
-SEOTitle: 哪个涛的博客 | BY Blog
+title: WHICH ATAO Blog
+SEOTitle: 哪个涛的博客 | WHICHATAO Blog
 header-img: img/post-bg-desk.jpg
 email: linteantor@gmail.com
 description: "Every failure is leading towards success."
-keyword: "BY, BY Blog, 哪个涛的博客, whichatao, .NET, JAVA, iOS, Apple, iPhone"
+keyword: "WHICHATAO, Whichatao Blog, 哪个涛的博客, whichatao, .NET, JAVA, iOS, Apple, iPhone"
 url: "http://whichatao.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/whichatao/whichatao.github.io.git" # you code repository
