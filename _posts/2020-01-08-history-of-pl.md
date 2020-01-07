@@ -138,6 +138,6 @@ Jeremy Ashkenas 想要拥有 Ruby 开发者那样愉快的开发体验，因此�
 Chris Lattner 发明了 Swift。起初的设计目标是替代 Objective-C，但是最终它看起来有点像Java。
 
 ## 谁更有影响力
-![影响力](/img/post-content-pl-relate.png)
+![影响力](~/img/post-content-pl-relate.png)
 
 
